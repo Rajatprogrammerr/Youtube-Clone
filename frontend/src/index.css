@@ -1,0 +1,22 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+    background-color: black;
+    color: white;
+}
+/* .navbar{
+    position:fixed;
+    width:100vw;
+    z-index: 10;
+    
+}
+.container {
+    position: absolute;
+    height: calc(100vh - 80px); 
+    width: 80vw;
+    left: 270px;
+    top: 80px;
+    z-index: 5; 
+} */
